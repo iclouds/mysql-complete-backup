@@ -5,3 +5,9 @@
   - Com configuração em um arquivo .env
   - Envio de backup para servidor remoto
   - Configuração de tempo de vida de backup (padrão  é 7 dias)
+
+
+
+  apt-get install python-pip
+pip install mysql-connector-python
+pip install environs
