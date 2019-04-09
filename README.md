@@ -8,6 +8,7 @@
 
 
 
-  apt-get install python-pip
-pip install mysql-connector-python
-pip install environs
+## Dependências 
+  - apt-get install python-pip
+  - pip install mysql-connector-python
+  - pip install environs
