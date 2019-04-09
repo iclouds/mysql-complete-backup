@@ -1,0 +1,12 @@
+CUSTOMER=name
+DB_HOST=127.0.0.1
+DB_USER=root
+DB_USER_PASSWORD=password
+DB_NAME=dbnameslist
+BACKUP_PATH=/backup/dbbackup/
+
+REMOTE_BACKUP_HOST=host-ip-or-dns.com # example 170.10.1.123 or host.com
+REMOTE_BACKUP_USER=root
+REMOTE_BACKUP_DIR=/var/backups/mysql/
+
+TIME=+7
