@@ -1,6 +1,7 @@
 # MySQL Complete Backup / Backup Completo do MySQL 
 
-![](https://www.python.org/static/community_logos/python-powered-w-100x40.png)
+![](https://www.python.org/static/community_logos/python-powered-w-100x40.png) ![](http://www.apache.org/img/support-apache.jpg)
+
 
 This project is an python application for full backup of databases individually, it is running on scp for transfer compact files od dbs, it is configure with ".env" file :)
 
@@ -25,3 +26,19 @@ This project is an python application for full backup of databases individually,
   - apt-get install python-pip (debian distros)
   - pip install mysql-connector-python
   - pip install environs
+  
+  # License / Licença
+  
+  Copyright [2019] [iClouds - Web Systems]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
