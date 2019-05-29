@@ -10,7 +10,7 @@ This project is an python application for full backup of databases individually,
   - Send backup for remote server.
   - Config default of lifetime is 7 days.
 
-É um script em python para backup de todas as bases de dados individualmente e com envio por scp e controle ssh, configurado por um arquivo ".env".
+Este projeto é uma aplicação em python para backup de todas as bases de dados individualmente e com envio por scp e controle ssh, configurado por um arquivo ".env".
 
 ## Features:
   - Backup Completo
