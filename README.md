@@ -1,6 +1,6 @@
 # MySQL Complete Backup / Backup Completo do MySQL 
 
-![](https://www.python.org/static/community_logos/python-powered-w-100x40.png) ![](http://www.apache.org/img/support-apache.jpg)
+![](https://www.python.org/static/community_logos/python-powered-w-100x40.png) ![](http://www.apache.org/img/support-apache.jpg | width: 100px)
 
 
 This project is an python application for full backup of databases individually, it is running on scp for transfer compact files od dbs, it is configure with ".env" file :)
