@@ -2,7 +2,7 @@
 
 ![](https://www.python.org/static/community_logos/python-powered-w-100x40.png)    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="100" height="40" />
 
-This project is an python application for full backup of databases individually, it is running on scp for transfer compact files od dbs, it is configure with ".env" file :)
+This project is an python application for full backup of databases individually, it is running on scp for transfer compact files of DBs, it is configure with ".env" file :)
 
 ## Features:
   - Full Backup of databases
