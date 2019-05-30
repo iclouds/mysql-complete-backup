@@ -4,19 +4,14 @@
 
 This project is an python application for full backup of databases individually, it is running on scp for transfer compact files of DBs, it is configure with ".env" file :)
 
-## Features:
-  - Full Backup of databases
-  - Configure with ".env" file.
-  - Send backup for remote server.
-  - Config default of lifetime is 7 days.
+<img src="https://images.emojiterra.com/twitter/v12/128px/1f1e7-1f1f7.png" width="40" height="30" /> Este projeto é uma aplicação em python para backup de todas as bases de dados individualmente e com envio por scp e controle ssh, configurado por um arquivo ".env".
 
-Este projeto é uma aplicação em python para backup de todas as bases de dados individualmente e com envio por scp e controle ssh, configurado por um arquivo ".env".
 
 ## Features:
-  - Backup Completo
-  - Com configuração em um arquivo .env
-  - Envio de backup para servidor remoto
-  - Configuração de tempo de vida de backup (padrão  é 7 dias)
+  - Full Backup of databases (Backup Completo)
+  - Configure with ".env" file. (Com configuração em um arquivo .env)
+  - Send backup for remote server. (Envio de backup para servidor remoto)
+  - Config default of lifetime is 7 days. (Configuração de tempo de vida de backup (padrão  é 7 dias))
 
 
 
